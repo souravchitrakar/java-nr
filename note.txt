@@ -1,0 +1,2 @@
+To open jshell (REPL) type the command "jshell" in the terminal.
+The JVM expects a class file with main method.
